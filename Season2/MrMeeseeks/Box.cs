@@ -12,7 +12,7 @@ namespace MrMeeseeks
         {
 
             //Add Box Here
-            Console.WriteLine("Rick's Box o' Fun! Press any key to summon a Mr. Meeseeks!");
+            Console.WriteLine("Rick's Box o' Fun! Enter any key to summon a Mr. Meeseeks!");
             string anyKey = Console.ReadLine();
 
             Console.WriteLine("I'm Mr. Meeseeks! Look at me!");
@@ -33,12 +33,12 @@ namespace MrMeeseeks
 
                 Console.WriteLine("Ooh yeah! Can do!");
 
-                Console.WriteLine("Press any key to swing.");
+                Console.WriteLine("Enter any key to swing.");
                 anyKey = Console.ReadLine();
 
                 Console.WriteLine("Remeber to square your shoulders, Jerry.");
 
-                Console.WriteLine("Press any key to swing.");
+                Console.WriteLine("Enter any key to swing.");
                 anyKey = Console.ReadLine();
 
                 Console.WriteLine("Try again and keep your head down.");
